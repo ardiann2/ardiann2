@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ardian</h1>
 
-<h3 align="center">
-Security Researcher • Bug Bounty Hunter • Web Application Security
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00C8FF&center=true&vCenter=true&width=650&lines=Security+Researcher;Bug+Bounty+Hunter;Web+Application+Security;Always+Learning..." />
 </p>
@@ -57,15 +53,13 @@ I enjoy learning how web applications work, identifying security weaknesses, and
 
 - 🟠 Bugcrowd
 - 🔵 HackerOne
-- 📚 PortSwigger Web Security Academy
-- 🧪 OWASP Juice Shop
+- 🧪 DVWA lab
 
 ---
 
 ## 📂 Featured Projects
 
 - 🔹 Security Notes
-- 🔹 Recon Scripts
 - 🔹 Bug Bounty Tools
 - 🔹 Write-ups
 
@@ -76,14 +70,6 @@ I enjoy learning how web applications work, identifying security weaknesses, and
 - GitHub
 - LinkedIn *(coming soon)*
 - Email *(coming soon)*
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ardiann2&style=for-the-badge&color=blueviolet"/>
-
-</p>
 
 ---
 
