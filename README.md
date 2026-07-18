@@ -11,3 +11,35 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-Green)
+
+## 💻 Tech Stack
+
+- Burp Suite
+- Nmap
+- Linux
+- Python
+- JavaScript
+- Node.js
+- Git
+
+## 🎯 Current Focus
+
+- API Security
+- Business Logic
+- Access Control
+- Authentication
+- IDOR
+- Broken Access Control
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardiann2&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)]()
+  ![](https://komarev.com/ghpvc/?username=USERNAME)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight)]()
+  
+  ## 📫 Contact
+
+- LinkedIn
+- X
+- Email
