@@ -8,8 +8,6 @@
 
 ![OWASP](https://img.shields.io/badge/OWASP-Top10-red)
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-Green)
