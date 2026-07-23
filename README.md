@@ -38,12 +38,10 @@ I enjoy learning how web applications work, identifying security weaknesses, and
 
 ## 🎯 Current Focus
 
-- 🌐 Web Application Security
-- 🔐 Authentication & Session Management
+- 🌐 Web Application Security & Web Development
 - 🔑 Broken Access Control
 - 🧩 Business Logic
 - 🔍 API Security Testing
-- 🐞 IDOR
 
 ---
 
@@ -57,8 +55,7 @@ I enjoy learning how web applications work, identifying security weaknesses, and
 
 ## 📂 Featured Projects
 
-- 🔹 Security Notes
-- 🔹 Bug Bounty Tools
+- 🔹 Mini Web Peoject 
 - 🔹 Write-ups
 
 ---
