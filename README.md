@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ardian</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00C8FF&center=true&vCenter=true&width=650&lines=Security+Researcher;Bug+Hunter;Web+Application+Security;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00C8FF&center=true&vCenter=true&width=650&lines=Security+Researcher;Web+Development;Web+Application+Security;Always+Learning..." />
 </p>
 
 ---
